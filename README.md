@@ -70,12 +70,7 @@ Attendance Percentage (Student Count):
 | 5     | 30%          | 1              |
 ```
 
-## 📁 Project Structure
 
-```
-attendance_calculator.py
-README.md
-```
 
 ## 🛠️ Customization
 
